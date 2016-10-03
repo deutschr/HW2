@@ -1,0 +1,17 @@
+public static class SQRT
+ {
+  public static void main(String []args){
+  
+ 
+ 
+ 
+ }
+ 
+public class calcSQRT
+ {
+  private double guess;
+  private double number;
+  
+ 
+
+  
